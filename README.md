@@ -1,2 +1,2 @@
-# Projetos
-Meus projetos
+# Meus Projetos
+Projetos EduTech
