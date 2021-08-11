@@ -1,2 +1,0 @@
-# Meus Projetos
-Projetos EduTech
