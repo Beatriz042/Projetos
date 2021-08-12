@@ -1,0 +1,81 @@
+body {
+    font-family: 'Roboto Mono',monospace;
+    min-height: 400px;
+    background-image: url('https://i.pinimg.com/originals/97/d7/9c/97d79ca12bc3fe45a0bbb3c78cd004fb.jpg');
+    background-color: #000000;
+    background-size: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  
+  .container {
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+  }
+  
+  .page-title {
+    color: lightblue;
+    margin: 0 0 5px;
+  }
+  
+  .page-subtitle {
+    color: lightblue;
+    margin-top: 5px;
+    font-weight: bold;
+  }
+  
+  .page-logo {
+    width: 200px;
+  }
+  
+  #pergunta {
+    color: lightblue;
+    font-size: 20px;
+    margin-top: 5px;
+    font-weight: bold;
+  }
+  
+  .form-wrapper {
+      margin: 0 0 15px;
+    }
+  
+   .form-wrapper input {
+      display: block;
+      margin: 0 auto;
+      padding: 10px 10px;
+    }
+  
+  .form-wrapper button {
+      border: 2;
+      border-color: black;
+      color: #ffffff;
+      background: #e49867;
+      font-weight:bold;
+      padding: 15px 20px;
+      font-size: 16px;
+      border-radius: 4px;
+      margin-top: 20px;
+      cursor: pointer;
+      transition: .3s;
+    }
+  
+  #resposta {
+      position: absolute;
+      font-size:16px;
+      font-weight:bold;
+      top: 283px;
+      left: calc(50% - 72.5px);
+      width: 145px;
+      text-align:center;
+      border: 2px solid lightblue;
+      background-color: white;
+      color: #e49867;
+    }
+  
+  .alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    right:10px;
+  }
